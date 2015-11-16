@@ -1,6 +1,6 @@
 # Spring PetClinic Sample Application
 
-CHANGE-001
+CHANGE-002
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
